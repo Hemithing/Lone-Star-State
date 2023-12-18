@@ -1,2 +1,2 @@
-# Front-end-Web-Dev-Task-2
+# Lone-Star-State/
 https://hemithing.github.io/Lone-Star-State/
